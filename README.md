@@ -1,4 +1,4 @@
-# Flu-Shot-Analysis-2022
+# Flu Shot Analysis using Tableau and PostgreSQL
 
 The Flu Shot Analysis 2022 project is a data-driven dashboard that provides comprehensive insights into flu shot distribution and compliance within a hospital network throughout 2022. This project leverages PostgreSQL for data management and Tableau for visualization, creating an intuitive interface that addresses specific business requirements.
 
